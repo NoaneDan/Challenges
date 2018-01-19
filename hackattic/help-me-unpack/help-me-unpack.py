@@ -47,8 +47,8 @@ def main():
 
     if len(sys.argv) < 2:
         print("[ERROR]: No token specified!")
-        print("usage: ./mini-miner.py <token>")
-        
+        print("usage: ./help-me-unpack.py <token>")
+
         exit(-1)
 
     token = sys.argv[1]
